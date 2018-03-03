@@ -1,0 +1,18 @@
+# interfaces
+
+-chamar televisao
+-implementar os seguintes metodos
+	-aumentaVolume()
+	-diminuiVolume()
+	-trocarCanal($canal)
+	-liga()
+	-desliga
+
+#class
+	-implementar a interface Televisao
+	- Propriedades
+		- $volume
+		- $canal
+		- $estado //representa ligado ou desligado
+		-
+#instanciar a class
